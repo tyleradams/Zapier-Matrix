@@ -28,7 +28,7 @@ module.exports = {
       required: true,
       label: 'Username',
       type: 'string',
-      helpText: 'The username zapier should use to post messages'
+      helpText: 'The username zapier should use to send messages'
     },
     {
       computed: false,
@@ -37,7 +37,7 @@ module.exports = {
       label: 'Password',
       type: 'password',
       helpText:
-        'The password for the account zapier should use to send messages'
+        'The password zapier should use to send messages'
     },
     {
       computed: false,

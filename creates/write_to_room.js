@@ -65,8 +65,8 @@ module.exports = {
   key: 'write_to_room',
   noun: 'Message',
   display: {
-    label: 'Post a Message',
-    description: 'This writes a message to the room',
+    label: 'Send a Message',
+    description: 'This sends a message to a room',
     hidden: false,
     important: true
   }
