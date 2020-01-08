@@ -14,9 +14,9 @@
     "zapier-platform-core": "8.2.1"
   },
   "devDependencies": {
+    "lodash": "^4.17.12",
     "mocha": "^5.2.0",
-    "should": "^13.2.0",
-    "lodash": "4.17.12"
+    "should": "^13.2.0"
   },
   "private": true
 }
