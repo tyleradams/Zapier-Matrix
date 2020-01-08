@@ -3,7 +3,7 @@ const perform = (z, bundle) => {
     url:
       bundle.authData.serverURL +
       '/_matrix/client/r0/rooms/' +
-      bundle.authData.roomID +
+      bundle.inputData.roomID +
       '/send/m.room.message/' +
       bundle.inputData.txnid,
     method: 'PUT',
