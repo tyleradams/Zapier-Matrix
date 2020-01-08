@@ -1,6 +1,6 @@
 {
   "name": "matrix",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Matrix is an open standard and lightweight protocol for real-time communication",
   "main": "index.js",
   "scripts": {
